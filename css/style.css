@@ -44,9 +44,10 @@ p {
 
 ul {
     list-style: none;
-    padding: 10;
+    padding: auto;
     width: 180px;
     margin: auto;
+    margin-top: 80px;
   }
   
 li {
@@ -59,7 +60,7 @@ li {
     vertical-align: auto;
     line-height: 20px;
     margin: 20px;
-    box-shadow: 2px 2px 2px 0px black;
+    box-shadow: 3px 3px 3px 0px black;
 }
 
 a   {
