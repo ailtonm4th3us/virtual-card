@@ -45,7 +45,7 @@ p {
 ul {
     list-style: none;
     padding: auto;
-    width: 180px;
+    width: 190px;
     margin: auto;
     margin-top: 80px;
   }
@@ -69,11 +69,6 @@ a   {
     font-weight: 700;
     font-size: 18px;
     color: white;
-}
-
-#op5 {
-    padding-bottom: 30px;
-
 }
 
 #op1:hover {
