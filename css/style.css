@@ -31,7 +31,7 @@ body {
     
 }
   
-p   {
+p {
     font-family: 'Press Start 2P';
     font-weight: 400;
     color: #F25A70;
@@ -70,6 +70,11 @@ a   {
     color: white;
 }
 
+#op5 {
+    padding-bottom: 30px;
+
+}
+
 #op1:hover {
     background-color:#222020;
     transition: 0.8s;
@@ -106,6 +111,5 @@ a   {
     width: 100px;
     height: 100px;
     display: block;
-    padding-top: 180px;
-
+    padding-top: 200px;
 }
