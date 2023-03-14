@@ -101,6 +101,12 @@ a   {
     opacity: 0.7;
 }
 
+#op6:hover {
+    background-color:#222020;
+    transition: 0.8s;
+    opacity: 0.7;
+}
+
 #ic {
     margin: 0 auto;
     text-align: center;
